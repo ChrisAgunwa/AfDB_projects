@@ -46,3 +46,11 @@ These non-sovereign sponsors play a crucial role in development by bringing in a
 
 # TASKS
 To clearn and analyze the data to get better insight about AFDB projects
+
+# Tech and libraries used
+Python
+pandas
+Numpy
+matplotlib
+seaborn
+plotly
