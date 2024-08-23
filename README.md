@@ -2,6 +2,9 @@
 AFDB Project Analysis: A data analysis project exploring African Development Bank (AFDB) projects featuring data visualization and insights 
 
 
+# NOTE: 
+The data was extracted from AfDB databank(dataPortal_project4.csv) and cleaned for analysis. It was cleaned and later saved as AFDB_PROJECTS.csv
+
 # Data Dictionary
 Project_Code: A unique identifier assigned to each project. This code helps in tracking and referencing specific projects within the dataset.
 
